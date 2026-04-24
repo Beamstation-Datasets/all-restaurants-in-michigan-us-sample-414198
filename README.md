@@ -9,9 +9,9 @@
 | Dataset ID | `414198` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 16,354 records |
-| Free sample size | 1,000 records (6.11%) |
-| Last export | 2026-04-17T00:51:55.781670+00:00 |
+| Full dataset size | 14,455 records |
+| Free sample size | 1,000 records (6.92%) |
+| Last export | 2026-04-23T19:03:10.095666+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-michigan-us-sample-414198/releases/download/sample-latest/beamstation_414198_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
