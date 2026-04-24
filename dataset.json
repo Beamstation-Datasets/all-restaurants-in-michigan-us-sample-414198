@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Michigan. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Michigan, US",
-  "export_job_id": "710de20b-675a-4012-a6f5-736f7648df23",
+  "export_job_id": "d937e308-e21e-482d-b65f-c54c24fe3345",
   "github_org": "Beamstation-Datasets",
   "id_short": 414198,
   "location_name": "Michigan",
   "location_type": "state",
   "repo_name": "all-restaurants-in-michigan-us-sample-414198",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/414198/beamstation_414198_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_pct": 6.11,
+  "sample_pct": 6.92,
   "sample_records": 1000,
-  "sample_sha256": "564fb300460d3a22302a7bf9da04e6857bffd1d14f86bc64d8bb0acf437ff148",
-  "sample_size_bytes": 2338890,
-  "total_records": 16354,
-  "updated_at": "2026-04-17T00:51:55.781670+00:00"
+  "sample_sha256": "0b9cb53f70ced035fc112c6d72705be168bd3aa6884688f1299981de8d912aba",
+  "sample_size_bytes": 2775256,
+  "total_records": 14455,
+  "updated_at": "2026-04-23T19:03:10.095666+00:00"
 }
