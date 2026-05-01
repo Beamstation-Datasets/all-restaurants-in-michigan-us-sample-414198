@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d937e308-e21e-482d-b65f-c54c24fe3345",
+  "export_job_id": "21729946-c591-4404-9036-bd50b73f735c",
   "id_short": 414198,
-  "published_at": "2026-04-24T07:01:54Z",
+  "published_at": "2026-05-01T19:05:05Z",
   "repo_name": "all-restaurants-in-michigan-us-sample-414198",
   "sample_asset_name": "beamstation_414198_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/414198/beamstation_414198_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "0b9cb53f70ced035fc112c6d72705be168bd3aa6884688f1299981de8d912aba",
-  "sample_size_bytes": 2775256,
-  "total_records": 14455
+  "sample_sha256": "d37878651f85f220634a72890bed6aae0e549b8a56ea4a1ce11a88f291e93949",
+  "sample_size_bytes": 2446237,
+  "total_records": 17456
 }
